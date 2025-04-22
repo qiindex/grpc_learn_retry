@@ -1,3 +1,6 @@
 package demo
 
-//dd
+// dd
+func main() {
+
+}
